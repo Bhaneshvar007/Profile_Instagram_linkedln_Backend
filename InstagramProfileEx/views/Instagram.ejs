@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Instagram/Profile.in/</title>
+    <link rel="stylesheet" href="../Style.css">
+</head>
+
+<body>
+    <h1>Instagram Page :- </h1>
+    <div class="box">
+        <nav>
+            <p>← Profile</p>
+            <p>✕</p>
+        </nav>
+
+        <div class="profile">
+            <div class="item">
+                <div>
+                    <h2>Followers</h2>
+                    <p> <%=data.followers %> </p>
+                </div>
+                <div>
+                    <h2>Following</h2>
+                    <p><%=data.following%></p>
+                </div>
+                <div>
+                    <h2>Posts</h2>
+                    <p><%=data.posts.count%></p>
+                </div>
+            </div>
+
+            <div class="picture"><img height="130px" width="130px"
+                    src="<%=data.posts.image%>"
+                    alt="Image Here"></div>
+            <h1><%=data.name%></h1>
+            <p class="bio">Bio : <%=data.posts.bio%></p>
+            <div class="btn">
+                <button>Follow</button>
+            <button>Message</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+{
+    "Abhay": {
+        "name": "Abhay_02",
+        "followers": "702",
+        "following": "501",
+        "posts": {
+            "count": 23,
+            "image": "https://pyxis.nymag.com/v1/imgs/5b5/b31/c24e06ba9a740ede406bc4b16d5b2d66e4-musk-.rhorizontal.w700.jpg",
+            "bio": "Software developer flipi"
+        }
+    },
+    "Durgesh": {
+        "name": "@Durgesh_patle",
+        "followers": "195",
+        "following": "5",
+        "posts": {
+            "count": 11,
+            "image": "https://yt3.googleusercontent.com/-OBpDwM2RR84jvuicmaCKXez6U8gd2QYS8i9t4WsZnoFwubbGEwGuV9vCNOvxBeJthpaOXmpeg=s900-c-k-c0x00ffffff-no-rj"
+        }
+    },
+    "Aman": {
+        "name": "@Aman_rajak",
+        "followers": "1455",
+        "following": "589",
+        "posts": {
+            "count": 101,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxgq--A_51sTyYXB7Rcuqjeok_aj0kuwBfQ&s",
+            "bio": "Master/Trainer of Webdev"
+        }
+    },
+    "Raja": {
+        "name": "@Raja_0206",
+        "followers": "55",
+        "following": "9",
+        "posts": {
+            "count": 8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyP2Fiec08vv2fMofQXyNjt1BL8_nh5KmHSw&s",
+            "bio": "i am work in microsoft"
+        }
+    },
+    "Rani": {
+        "name": "@Rani_Bisen",
+        "followers": "1015",
+        "following": "5",
+        "posts": {
+            "count": 1,
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_lMVDUtpjUBr7XCeNBKtFb7aMCSKwu_P5-WFP_PvZvxXyU=s900-c-k-c0x00ffffff-no-rj",
+            "bio": "i love singing "
+        }
+    }
+}

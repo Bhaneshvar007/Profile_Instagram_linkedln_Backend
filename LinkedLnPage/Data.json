@@ -1,0 +1,51 @@
+{
+    "Durgesh": {
+        "name": "Durgesh Patle",
+        "image": "https://media.licdn.com/dms/image/D4D03AQEhwWYhJcX8bQ/profile-displayphoto-shrink_200_200/0/1705828713262?e=2147483647&v=beta&t=KQLh1zV-YroRfaUQidFasGHS_r5ve28sFMkG2pX_7jg",
+        "profession": "Software Engineer",
+        "connections": "702+",
+        "about" : "Google appeals to candidates from underrepresented groups in the most authentic way",
+        "email" : "dpatle002@text.com",
+        "phone" : "7255-55-2100",
+        "skills": {
+            "a": "Java",
+            "b": "Html/Css",
+            "c" : "Java-Script",
+            "d":"React-Js",
+            "e" : "Node-Js"
+        }
+    },
+   
+    "Abhishek": {
+        "name": "Abhishek Kshirsagar",
+        "image": "https://media.licdn.com/dms/image/D4E03AQGxltbkMNHr2g/profile-displayphoto-shrink_200_200/0/1694968332366?e=2147483647&v=beta&t=y6sH1jdVmU_CtcFEv5X6MBXwZqGwH49TR7QYz84iqA0",
+        "profession": "Ethical Hacking (Hacker)",
+        "connections": "500+",
+        "about" : "Generalizes her recruiting expertise, making herself relevant to other companies",
+        "email" : "abhishek098@outlook.com",
+        "phone" : "625-845-5215",
+        "skills": {
+            "a": "Python",
+            "b": "Artificial Inteligence",
+            "c" : "DataBase",
+            "d":"Larawal",
+            "e" : "Machine Learning"
+        }
+    },
+    "abhay": {
+        "name": "Abhay Rahangadale",
+        "image": "https://media.licdn.com/dms/image/D4D03AQGFgxSQrG1Dhg/profile-displayphoto-shrink_200_200/0/1705988771160?e=2147483647&v=beta&t=49vu_zK3zWkDKXZSNvvxBIEbuFaqWzOYrM0VbVqtgEo",
+        "profession": "Data Science Engineer",
+        "connections": "400+",
+        "about" : " Magdalena ties her role to bigger-picture impact: Bettering lives around the world",
+        "email" : "abhay@google.com",
+        "phone" : "597-000-1111",
+        "skills": {
+            "a": "C/C++",
+            "b": "Cyber Sequrity",
+            "c" : "MonoDb",
+            "d":"Algoritms",
+            "e" : "Express"
+        }
+    }
+}
